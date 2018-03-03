@@ -1,5 +1,5 @@
 # Android Gateway SMS
-##Il s'agit d'une application Android qui permet l'émission et la reception des SMS.
+Il s'agit d'une application Android qui permet l'émission et la reception des SMS.
 Notre application consiste:
 ⦁	  Crée une application android à l'aide du logiciel Android Studio avec une base de donnée local SQLite.
    Cette application android est l'intermédiaire entre SI et le GSM.
