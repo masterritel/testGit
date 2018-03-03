@@ -12,5 +12,6 @@
 systéme d'information.
 ***
  ---> la relation entre le SI(systéme d'information) et l'application se fait à partir de web service et à travers la réquete :
-  -Http GET au niveau de l'émission .
-  -Http POST au niveau de reception.
+  `Http GET` au niveau de l'émission et
+   `Http POST` au niveau de reception.
+
